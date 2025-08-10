@@ -1,0 +1,5 @@
+define void saySome() {
+    write("Hola 2!")
+}
+
+launch saySome

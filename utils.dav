@@ -1,0 +1,5 @@
+sys_clear()
+Text name = "Namish"
+write(name)
+set name = "Dog"
+write(name)
